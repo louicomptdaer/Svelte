@@ -23,7 +23,7 @@
 
 		to your new<br />SvelteKit app
 	</h1>
-	<p>Test</p>
+	<p>Test blabla</p>
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
